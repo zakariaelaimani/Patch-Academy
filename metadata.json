@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Curriculum Crafter",
+  "description": "An application that generates a structured learning curriculum for any topic using the Gemini API. Users can input a subject they wish to learn, and the app provides a detailed plan with modules, descriptions, and subtopics.",
+  "requestFramePermissions": []
+}
